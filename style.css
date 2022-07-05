@@ -1,0 +1,45 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    
+    margin: 0;
+}
+.sec-one{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.one{
+    width: 60%;
+    padding: 5%;
+}
+h1{
+    font-size: 40px;
+}
+.color{
+    color: teal;
+}
+.about-title{
+
+}
+.first-para{
+    color: rgb(83, 83, 83);
+}
+.two{
+    width: 40%;
+    padding-right: 10%;
+}
+section{
+    display: flex;
+}
+.two img {
+    width: 102%;
+}
+.btm{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(rgb(0, 242, 255), rgb(0, 93, 93));
+    padding: 10px 30px;
+    border: 5%;
+    font-weight: 700;
+    text-transform: uppercase;
+    
+}
