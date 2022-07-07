@@ -33,7 +33,7 @@ section{
 .two img {
     width: 102%;
 }
-.btm{
+.button1{
     text-decoration: none;
     color: white;
     background-image: linear-gradient(rgb(0, 242, 255), rgb(0, 93, 93));
@@ -41,5 +41,34 @@ section{
     border: 5%;
     font-weight: 700;
     text-transform: uppercase;
-    
+}
+.sec-two{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.three{
+    width: 55%;
+}
+.four{
+    width: 45%;
+}
+.three img{
+    width: 500px;
+    height: 500px;
+}
+.button2{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(to right, rgb(0, 242, 255), rgb(0, 93, 93));
+    padding: 10px 30px;
+    border: 5%;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.header2  {
+    padding: 3% 0;
+}
+.para2{
+    padding: 0 0 3% 0;
 }
